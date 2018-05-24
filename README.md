@@ -22,3 +22,4 @@ This is the project for the Udacity Full Stack Nanodegree. The Neighborhood Map 
 
 - Download the project or clone the repository from https://github.com/ruhadaemini/neighborhood-map
 - Open `index.html`
+- Or open it locally 
